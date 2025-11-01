@@ -51,7 +51,7 @@ Desarrollo de un sistema para **análisis, limpieza y procesamiento de datos** p
 Aplicativo para analisis de bases de datos con transacciones (Personal)
 A raiz de un problema planteado en una reunion grupal donde nos dieron un rato en talento b de bancolombia, donde nos entregan una base de datos con transacciones y se quiere saber transacciones por periodos u obtener mas informacion de esto con inteligencia artificial, ademas de crear graficos automaticos para mejor visualizacion.
 > Para esto se utilizo una tecnica RAG con un modelo en local que tambien puede adaptarse a API.
-> Pero para llegar a esto pues es necesario saber que bases de datos como empresas de este tipo son super extensas entonces primero hay que hacer un chunking semantico y guardarlo en una vector store, en nuestro caso chromadb, esto se hace porque ningun modelo por su contexto e inferencia podria entender y procesar de primera mano una base de datos de este tipo.
+> Pero para llegar a esto pues es necesario saber que bases de datos como empresas de este tipo son super extensas entonces primero se hizo el tratamiento de la base de datos con un modelo de embeddings y guarda en la vector store en nuestro caso chromadb nuestros embeddings y apartir de ellos el modelo LLM genera.
 > Despues del proceso principal de inteligencia artificial, entrega tablero estilo Power BI para visualizar graficos, y un modal que se conecta al modelo para hacer preguntas de esta base de datos.
 
 ---
