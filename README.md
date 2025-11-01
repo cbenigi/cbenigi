@@ -54,8 +54,8 @@ A raiz de un problema planteado en una reunion grupal donde nos dieron un rato e
 
 ---
 Aplicativo Analítico para empresa de Propiedad Horizontal (Contratista)
-Desarrollo y proposicion de varios sistemas, los mas importantes, automatizacion con la herramienta AgentKit de OpenAI para procesamiento de PQRS de las copropiedades filtrandolos por tipos.
-Limpieza de informacion para informes mensuales en reuniones de consejo manejando herramientas como databricks conectada con Power BI.
+>Desarrollo y proposicion de varios sistemas, los mas importantes, automatizacion con la herramienta AgentKit de OpenAI para procesamiento de PQRS de las copropiedades filtrandolos por tipos.
+>Limpieza de informacion para informes mensuales en reuniones de consejo manejando herramientas como databricks conectada con Power BI.
 Todo esto como parte de una investigacion personal de diseño de los servicios que llevaban y en busqueda de la mejora y optimizacion de procesos.
 ---
 Creo en el **Deep Thinking aplicado**: unir teoría, ingeniería y propósito.  
