@@ -22,6 +22,7 @@ Soy una persona práctica, disciplinada y con enfoque técnico en investigación
 
 ---
 Stack Técnico
+
 **Lenguajes:** Python, JavaScript, C++, C#, TypeScript 
 **Frameworks:** JAX (especialidad), TensorFlow, Flax, LangChain  
 **Bases de Datos:** PostgreSQL, MySQL, ChromaDB (vector stores)  
