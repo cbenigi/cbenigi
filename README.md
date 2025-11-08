@@ -2,6 +2,7 @@ Hola, soy Cristian Benítez Giraldo
 
 Soy estudiante de Ingeniería de Software (4° semestre) en la Institución Universitaria Pascual Bravo — Medellín, Colombia.  
 Me enfoco en **Deep Thinking** y en la investigacion de **modelos de inteligencia artificial de frontera**, combinando investigación y desarrollo para construir sistemas que comprendan y razonen con tecnicas utilizadas en modelos LLM de vanguardia.
+Tambien en estudiar y construir algoritmos de Machine Learning avanzado optimos en producción.
 
 ---
 Sobre mí
@@ -25,8 +26,8 @@ Stack Técnico
 
 **Lenguajes:** Python, JavaScript, C++, C#, TypeScript.
 
-**Frameworks:** JAX (especialidad), TensorFlow, Flax, LangChain  
-**Bases de Datos:** PostgreSQL, MySQL, ChromaDB (vector stores)  
+**Frameworks:** JAX (especialidad), TensorFlow, Flax, LangChain, Scikit-Learn, Kera
+**Bases de Datos:** PostgreSQL y pgvectors, MySQL, ChromaDB (vector stores)
 **Herramientas:** Docker, Git, Kubernetes, OpenAI API, Gemini, X.AI, Prodigy, FastAPI, Power BI, Databricks
 
 ---
