@@ -7,15 +7,14 @@ Tambien en estudiar y construir algoritmos de Machine Learning avanzado optimos 
 ---
 Sobre mí
 
-Actualmente exploro cómo las redes neuronales pueden **aprender representaciones de su propio estado interno** (meta-aprendizaje reflexivo), utilizando **JAX** como framework principal.  
-Mi interés está en llevar la teoría del aprendizaje profundo hacia **modelos más conscientes de su estructura y razonamiento**.
+Actualmente exploro cómo las redes neuronales pueden **aprender representaciones de su propio estado interno** (meta-aprendizaje reflexivo), utilizando **JAX** como framework principal por su estructura que lo hace ser un framework mas investigativo, aunque tambien he trabajado con mas como Pytorch o Tensorflow. 
 
 Soy una persona práctica, disciplinada y con enfoque técnico en investigación aplicada, **optimizando recursos y procesos de IA con MLOps y diseño arquitectónico de modelos**.
 
 ---
 
 Áreas de Enfoque
-- Arquitecturas **Transformer**, **Meta-aprendizaje reflexivo** y **Deep Thinking** con JAX  
+- Arquitecturas **Transformer** y **Deep Thinking** con JAX  
 - **RAG pipelines** y recuperación semántica con ChromaDB y LangChain  
 - **Fine-tuning** de modelos (LoRA / QLoRA) y **RLHF**  
 - **MLOps:** Docker, Kubernetes, despliegue y optimización de modelos  
