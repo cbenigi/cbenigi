@@ -60,8 +60,7 @@ Aplicativo Analítico para empresa de Propiedad Horizontal (Contratista)
 >Limpieza de informacion para informes mensuales en reuniones de consejo manejando herramientas como databricks conectada con Power BI.
 Todo esto como parte de una investigacion personal de diseño de los servicios que llevaban y en busqueda de la mejora y optimizacion de procesos.
 ---
-Creo en el **Deep Thinking aplicado**: unir teoría, ingeniería y propósito.  
-Mi objetivo es construir modelos que no solo respondan, sino que **razonen, aprendan y comprendan su propio proceso**.
+Creo en el **Deep Thinking aplicado**: Ya que nos lleva a tener tecnologias mas avanzadas y que los modelos LLM tengan mejores resultados.
 
 ---
 Contacto
