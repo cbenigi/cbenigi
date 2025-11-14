@@ -25,8 +25,8 @@ Stack Técnico
 
 **Lenguajes:** Python, JavaScript, C++, C#, TypeScript.
 
-**Frameworks:** JAX (especialidad), TensorFlow, Flax, LangChain, Scikit-Learn, Kera
-**Bases de Datos:** PostgreSQL y pgvectors, MySQL, ChromaDB (vector stores)
+**Frameworks:** JAX (especialidad), TensorFlow, Flax, LangChain, Scikit-Learn, Keras.
+**Bases de Datos:** PostgreSQL y pgvectors, MySQL, ChromaDB (vector stores).
 **Herramientas:** Docker, Git, Kubernetes, OpenAI API, Gemini, X.AI, Prodigy, FastAPI, Power BI, Databricks
 
 ---
