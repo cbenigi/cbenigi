@@ -6,7 +6,8 @@ Me enfoco en **Deep Thinking** y en la investigación de **modelos de inteligenc
 
 Actualmente exploro cómo las redes neuronales pueden **aprender representaciones de su propio estado interno** (meta-aprendizaje reflexivo), utilizando **JAX** como framework principal por su estructura ideal para la investigación, aunque también tengo experiencia sólida con **PyTorch** y **TensorFlow**.
 
-Soy una persona práctica, disciplinada y con enfoque técnico en investigación aplicada, **optimizando recursos y procesos de IA con MLOps y diseño arquitectónico de modelos**.
+Soy una persona práctica, disciplinada y con enfoque técnico en investigación aplicada, optimizando recursos y procesos de IA con MLOps y diseño arquitectónico de modelos.
+
 ---
 Sobre mí
 
