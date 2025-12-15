@@ -12,19 +12,30 @@ Actualmente exploro cómo las redes neuronales pueden **aprender representacione
 Soy una persona práctica, disciplinada y con enfoque técnico en investigación aplicada, **optimizando recursos y procesos de IA con MLOps y diseño arquitectónico de modelos**.
 
 ---
+He profundizado mi perfil hacia la alineación y el razonamiento avanzado:
 
-Áreas de Enfoque
-- Arquitecturas **Transformer** y **Deep Thinking** con JAX  
-- **RAG pipelines** y recuperación semántica con ChromaDB y LangChain  
-- **Fine-tuning** de modelos (LoRA / QLoRA) y **RLHF**  
-- **MLOps:** Docker, Kubernetes, despliegue y optimización de modelos  
-- Investigación aplicada en **eficiencia y razonamiento en LLMs**
+* **🧬 Arquitecturas Transformer & Deep Thinking:** Investigación de mecanismos de atención y razonamiento con **JAX**.
+* **🤖 RL, RLHF & Environments:** Diseño de **entornos de simulación** (RL Environments) y aplicación de **RLHF** para la alineación y fine-tuning de modelos.
+* **🧠 RAG Pipelines:** Recuperación semántica avanzada y memoria a largo plazo con **ChromaDB** y **LangChain**.
+* **⚙️ MLOps & Despliegue:** Orquestación con **Kubernetes**, contenedores **Docker** y optimización de inferencia.
+* **📉 Eficiencia en LLMs:** Técnicas de adaptación de bajo rango (LoRA / QLoRA).
 
 ---
-Stack Técnico
+**Core Research & AI:**
+![JAX](https://img.shields.io/badge/JAX-Research_Core-blue?logo=google&logoColor=white)
+![Flax](https://img.shields.io/badge/Flax-Neural_Nets-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-**Lenguajes:** Python, JavaScript, C++, C#, TypeScript.
+**RL, LLMs & Data:**
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-green)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-yellow)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-336791?logo=postgresql&logoColor=white)
 
-**Frameworks:** JAX (especialidad), TensorFlow, Flax, LangChain, Scikit-Learn, Keras.
-**Bases de Datos:** PostgreSQL y pgvectors, MySQL, ChromaDB (vector stores).
-**Herramientas:** Docker, Git, Kubernetes, OpenAI API, Gemini, X.AI, Prodigy, FastAPI, Power BI, Databricks
+**Engineering & MLOps:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Performance-00599C?logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
