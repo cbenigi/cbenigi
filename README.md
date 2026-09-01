@@ -6,4 +6,3 @@ Entre ellos:
 
 - Horizon PH
 - Track
-- Acuenta
